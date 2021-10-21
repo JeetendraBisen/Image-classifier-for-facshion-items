@@ -1,1 +1,1 @@
-# Image-classifier-for-facshion-items
+# Image-classifier-for-fashion-items
